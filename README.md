@@ -11,9 +11,8 @@
   How To Use
 </h1>
 Simply just open the file
-.
 
-
+g
 
 Have fun obfuscating!
 
