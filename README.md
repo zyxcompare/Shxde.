@@ -1,0 +1,2 @@
+# Shxde.
+[+] Batch Obfuscator
