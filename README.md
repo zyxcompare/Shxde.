@@ -7,7 +7,6 @@
 [+] May Not Work On Some Files/Systems
 
 [+] Most Reliable Batch Obfuscator
-
 <h1 align="center">
   How To Use
 </h1>
