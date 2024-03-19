@@ -1,10 +1,10 @@
 <h1 align="center">
-  Shxde. (Batch is cool)
+  Shxde.
 </h1>
 [+] Simple Batch Obfuscator
 
 <h1 align="center">
-  How To Use (Batch is cool)
+  How To Use
 </h1>
 Simply just open the file
 Have fun obfuscating!
@@ -12,14 +12,14 @@ Have fun obfuscating!
 If you have any issues please make a issue on github and I'll try to get to it as soon as possible.
 
 <h1 align="center">
-  Menu (Batch is cool)
+  Menu
 </h1>
 
 ![MenuImage/Screenshot 2024-03-19 184127.png](MenuImage/Screenshot%202024-03-19%20184127.png)
 
 
 <h1 align="center">
-  Features (Batch is cool)
+  Features
 </h1>
 
 <details>
@@ -47,7 +47,7 @@ It will duplicate your batch file and turn its source code into binary and rando
 </details>
 
 <h1 align="center">
-  If You Like This Project Please Give It A Star (Batch is cool)
+  If You Like This Project Please Give It A Star
 </h1>
 
 - - - - - - - - - -
