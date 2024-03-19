@@ -3,6 +3,8 @@
 </h1>
 [+] Simple Batch Obfuscator
 
+[+] May Not Work On Some Files/Systems
+
 <h1 align="center">
   How To Use
 </h1>
