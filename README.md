@@ -21,3 +21,11 @@ If you have any issues please make a issue on github and I'll try to get to it a
 Due to the way the script is put together, it can obfuscate pretty much all batch scripts.
 
 </details>
+
+<details>
+
+<summary>Easily Accessible and Usable</summary>
+
+It has a user-friendly interface, aswell as the script being setup so anybody can understand how to use it.
+
+</details>
