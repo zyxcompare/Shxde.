@@ -29,3 +29,16 @@ Due to the way the script is put together, it can obfuscate pretty much all batc
 It has a user-friendly interface, aswell as the script being setup so anybody can understand how to use it.
 
 </details>
+
+<details>
+
+<summary>Binary</summary>
+
+It will duplicate your batch file and turn its source code into binary and random characters of code
+
+</details>
+
+#                                    If you like this file please leave a star
+
+- - - - - - - - - -
+- - - - - - - - - -
