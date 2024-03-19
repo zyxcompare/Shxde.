@@ -1,6 +1,7 @@
 <h1 align="center">
   Shxde.
 </h1>
+
 [+] Simple Batch Obfuscator
 
 [+] May Not Work On Some Files/Systems
