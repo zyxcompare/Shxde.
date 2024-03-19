@@ -15,4 +15,4 @@ If you have any issues please make a issue on github and I'll try to get to it a
 
 https://raw.githubusercontent.com/zyxcompare/Shxde./main/MenuImage/Screenshot%202024-03-19%20184127.png
 
-[https://github.com/zyxcompare/Shxde./tree/main/MenuImage/Screenshot%202024-03-19%20184127.png](url)
+[https://github.com/zyxcompare/Shxde./tree/main/MenuImage/Screenshot%202024-03-19%20184127.png](https://github.com/zyxcompare/Shxde./tree/main/MenuImage/Screenshot%202024-03-19%20184127.png)
