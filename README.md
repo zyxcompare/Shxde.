@@ -1,7 +1,7 @@
 # Shxde.
 [+] Simple Batch Obfuscator
 
-# How To Use
+## How To Use
 Simply just open the file
 Have fun obfuscating!
 
