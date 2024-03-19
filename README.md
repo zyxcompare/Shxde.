@@ -18,6 +18,6 @@ If you have any issues please make a issue on github and I'll try to get to it a
 
 <summary>Obfuscates All Batch Scripts</summary>
 
-Due to the way the script is put together, it can obfuscate all batch scripts
+Due to the way the script is put together, it can obfuscate pretty much all batch scripts.
 
 </details>
