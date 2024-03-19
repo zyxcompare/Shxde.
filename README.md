@@ -14,6 +14,7 @@ Simply just open the file
 .
 
 
+
 Have fun obfuscating!
 
 If you have any issues please make a issue on github and I'll try to get to it as soon as possible.
