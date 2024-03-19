@@ -1,7 +1,9 @@
 # Shxde.
 [+] Simple Batch Obfuscator
 
-## How To Use
+<h1 align="center">
+  How To Use (Batch is cool)
+</h1>
 Simply just open the file
 Have fun obfuscating!
 
