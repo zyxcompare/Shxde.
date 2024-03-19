@@ -13,7 +13,7 @@
 Simply just open the file
 
 
-
+g
 
 
 Have fun obfuscating!
