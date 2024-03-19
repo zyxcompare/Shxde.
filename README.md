@@ -2,7 +2,7 @@
   Shxde.
 </h1>
 [+] Simple Batch Obfuscator
--
+
 [+] May Not Work On Some Files/Systems
 
 [+] Most Reliable Batch Obfuscator
