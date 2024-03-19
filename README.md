@@ -3,7 +3,10 @@
 </h1>
 [+] Simple Batch Obfuscator
 
+
 [+] May Not Work On Some Files/Systems
+
+[+] Most Reliable Batch Obfuscator
 
 <h1 align="center">
   How To Use
@@ -49,7 +52,7 @@ It will duplicate your batch file and turn its source code into binary and rando
 </details>
 
 <h1 align="center">
-  If You Like This Project Please Give It A Star
+  If You Like This Project Please Give It A Star ⭐
 </h1>
 
 - - - - - - - - - -
