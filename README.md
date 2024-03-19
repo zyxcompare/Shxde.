@@ -14,6 +14,10 @@ If you have any issues please make a issue on github and I'll try to get to it a
 
 ## Features
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+<details>
+
+<summary>Obfuscates All Batch Scripts</summary>
+
+Due to the way the script is put together, it can obfuscate all batch scripts
+
+</details>
