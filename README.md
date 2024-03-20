@@ -31,7 +31,7 @@ If you have any issues please make a issue on github and I'll try to get to it a
 
 <summary>Obfuscates All Batch Scripts</summary>
 
-Due to the way the script is put together, it can obfuscate pretty much all batch scripts.
+Due to the way the script is put together, it can obfuscate pretty much all batch scripts and is very reliable.
 
 </details>
 
@@ -45,9 +45,9 @@ It has a user-friendly interface, aswell as the script being setup so anybody ca
 
 <details>
 
-<summary>Hexadecimal</summary>
+<summary>Hex</summary>
 
-it obfuscates the contents of a batch file into hexadecimal representation 
+it will convert the contents of a batch file into hexadecimal representation, effectively obfuscating its original content.
 
 </details>
 
