@@ -11,7 +11,9 @@
   How To Use
 </h1>
 
-Simply just open the file
+Download the raw file
+
+Then just simply open the file
 
 Have fun obfuscating!
 
