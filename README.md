@@ -45,9 +45,9 @@ It has a user-friendly interface, aswell as the script being setup so anybody ca
 
 <details>
 
-<summary>Binary</summary>
+<summary>Hexadecimal</summary>
 
-It will duplicate your batch file and turn its source code into binary and random characters of code
+it obfuscates the contents of a batch file into hexadecimal representation 
 
 </details>
 
